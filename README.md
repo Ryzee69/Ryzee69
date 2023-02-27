@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake Game](https://raw.githubusercontent.com/mi-usuario/mi-repo/main/juegos/snake.gif)
+![Snake Game](https://raw.githubusercontent.com/Ryzee69/Ryzee69/main/juegos/snake.gif)
