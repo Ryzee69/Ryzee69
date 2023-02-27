@@ -1,7 +1,5 @@
 # I' am Ryzee69 👋🏻 🚀
-<img src="https://raw.githubusercontent.com/Ryzee69/Ryzee69/master/giphy.gif" alt="Banner Programmer">
 
--> 🗂 Working
 <!--
 **Ryzee69/Ryzee69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
